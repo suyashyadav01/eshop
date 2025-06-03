@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0z0NTcqnMZ8=",
+  "success": true,
+  "projectFilePath": "D:\\Suyash\\eshop\\EShop\\EShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Suyash Yadav\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}
